@@ -35,6 +35,3 @@ Python | Pandas | NumPy | Matplotlib | Seaborn | Google Colab | GitHub
 ] (https://www.linkedin.com/in/fayeza-qareen-t-w-593117377?utm_source=share_via&utm_content=profile&utm_medium=member_android)👋
 
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)
-
-](your-linkedin-url)
