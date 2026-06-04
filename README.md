@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Fayeza Qareen T W  👋
 
-<!--
-**FayezaQareen-TW/FayezaQareen-TW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.sc Data Science | 2nd Year
+📍 India | 🔥 Building Projects actively
+💼 Open to Data Science Internships
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+Python | Pandas | NumPy | Matplotlib | Seaborn | Google Colab | GitHub
+
+---
+
+## 📌 My Projects
+
+| Project | Description | Tools |
+|---------|-------------|-------|
+| [Netflix Analysis] (https://github.com/FayezaQareen-TW/Netflix-Data-Analysis)| Content strategy insights from 8000+ titles | Python, Pandas |
+| [Youtube Analysis] (https://github.com/FayezaQareen-TW/youtube-virality-predictor) | Trend analysis across categories | Python, Colab |
+
+---
+
+## 📈 Currently Learning
+- ✅ Python & EDA
+- 🔄 SQL (This week)
+- ⏳ Machine Learning (Next)
+
+---
+
+## 🤝 Connect
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)
+
+] (https://www.linkedin.com/in/fayeza-qareen-t-w-593117377?utm_source=share_via&utm_content=profile&utm_medium=member_android)👋
+
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)
+
+](your-linkedin-url)
