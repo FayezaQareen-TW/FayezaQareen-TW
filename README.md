@@ -4,6 +4,9 @@
 📍 India | 🔥 Building Projects actively
 💼 Open to Data Science Internships
 
+currently doing the prodigy internship
+
+
 ---
 
 ## 🛠️ Skills
